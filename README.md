@@ -1,16 +1,56 @@
-## Hi there 👋
+# Rajesh Kumar P B
 
-<!--
-**pbrajesh1/pbrajesh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Architect | Modernization Strategist | Founder — Stratonavis
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I specialize in transforming legacy enterprise systems into scalable, cloud-native platforms using **evolutionary architecture**.
+
+With over 29+ years in financial software systems, I focus on:
+
+- Modernization of mission-critical systems
+- Cloud-native architecture (Kubernetes)
+- Event-driven systems (Kafka)
+- Product-oriented engineering transformation
+
+---
+
+## Stratonavis
+
+**Modernization Intelligence for Enterprise Platforms**
+
+Stratonavis helps organizations evolve legacy systems into scalable, resilient, and future-ready architectures.
+
+🔗 https://github.com/stratonavis
+
+---
+
+## Core Focus Areas
+
+- Evolutionary Modernization
+- Architecture Decision Frameworks
+- Platform Engineering
+- Financial Systems Transformation
+
+---
+
+## Current Work
+
+- Building modernization blueprints
+- Developing reference architecture platforms
+- Creating decision playbooks for enterprise leaders
+
+---
+
+## Philosophy
+
+> Great architecture is not about choosing the latest technology.  
+> It is about making the right decisions at the right time.
+
+---
+
+## Connect
+
+📧 connect@stratonavis.com
