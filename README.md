@@ -41,7 +41,11 @@ Stratonavis helps organizations evolve legacy systems into scalable, resilient, 
 - Building modernization blueprints
 - Developing reference architecture platforms
 - Creating decision playbooks for enterprise leaders
+---
+## Author
 
+- 📚 Amazon Author Profile  
+  https://www.amazon.com/stores/Mr-Rajesh-Kumar/author/B0FKYGZ952
 ---
 
 ## Philosophy
